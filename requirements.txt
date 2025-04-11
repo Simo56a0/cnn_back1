@@ -1,0 +1,10 @@
+gdown
+tensorflow
+numpy
+opencv-python
+pillow
+werkzeug
+python-multipart
+ai-edge-litert
+fastapi
+uvicorn
